@@ -3,21 +3,6 @@ Anonymous
 WEB APPLICATION NAME
 github-repository-url
 
-Team Overview
-Team Member Name
-Github Usernames
-Raymond Leo
-RaymondLeo
-Cory Knopp
-coryknopp
-Sebastian Lacki
-sebby97
-TEAM MEMBER #4
-
-
-TEAM MEMBER #5
-
-
 
 
 
@@ -25,15 +10,11 @@ TEAM MEMBER #5
 
 
 Innovative Idea
-1-2 paragraphs explaining your innovative idea and how it relates to existing applications.
-
 	Our idea is to create an application which combines the feeds of multiple social media accounts managed by single organizations.  The incentive for the users of our websites is that they will be able to view all social media feeds under specific organizations in one place. Additionally, the stock market values for these companies will be displayed at the top of the page. This will be a useful tool for investors to keep up to date with the companies they are invested int. For example, if a user is interested in the social media feeds of Intel, AMD, and NVidia, they can see all of these feeds in one place. The user will not have to navigate to each social media website and further sift through seas of content to find what they want. 
 
 	Furthermore, users will be able to create “groups” of feeds that they want to look at, and subscribe to other “groups” created by other users. If a user is interested in keeping a feed for tech companies, and a separate feed for agricultural companies, they may do so with the option to combine them when they want to. 
 
 Important Data
-1-2 paragraphs explaining the 5 different types of data your application will support/use.
-
 What I’m thinking (could be totally wrong I still don’t know what this question is asking)
 	Users: Profile data (though we may not be able to include this as one of our data sources)
 	Groups: “groups” of organizations user is subscribed to. Maybe they want a feed for tech companies and a feed for agricultural companies. 
